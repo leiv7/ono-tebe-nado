@@ -1,1 +1,1 @@
-https://github.com/SkromnayaDeffchonka/ono-tebe-nado-ad
+https://github.com/leiv7/ono-tebe-nado
