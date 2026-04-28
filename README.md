@@ -1,1 +1,1 @@
-https://github.com/leiv7/ono-tebe-nado
+https://github.com/leiv7/ono-tebe-nado-ad
